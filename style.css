@@ -104,7 +104,7 @@ h4{
 .Our_Plan{
     display: flex;
     width: 100%;
-    margin-left: 60px;
+    margin-left: 80px;
 }
 .Donate_Plan{
     width: 28%;
@@ -134,24 +134,31 @@ background-color:#FFF4D6 ;
 /* --part 4 end-- */
 /* --part 5 start-- */
 .Get_Update{
+    display: flex;
     background-color: #FFF4D6;
-    height: 80px;
-    width:400px;
+    height: 100px;
+    width:700px;
     margin: 0 auto;
-    padding: 50px;
+    padding: 80px 100px 50px 300px;
 }
 .email{
     background-color: #D9D9D9;
     text-align: left;
     border-radius:5px 0 0 5px;
-    width: 250px;
+    width: 300px;
     height: 50px;
+    padding-left:20px ;
 }
 .subscribe{
+  border: none;
     border-radius:0 5px 5px 0 ;
-    width: 150px;
-    height: 100px;
-    margin: 0;
+    text-decoration: none;
+   font-size: 19px;
+   background-color:  #FF5959; 
+   color: white;
+   padding: 15px;
+   margin: 0;
+   width: 200px;
 }
 /* --part 5 end-- */
 /* --part 6 s-- */
@@ -169,5 +176,3 @@ footer p{
     margin: 0;
 }
 /* --part 6 end-- */
-
-
