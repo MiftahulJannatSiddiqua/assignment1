@@ -131,6 +131,26 @@ background-color:#FFF4D6 ;
 }
 /* --part 3 end-- */
 /* --part 4 start-- */
+#donation{
+    margin-top: 100px;
+    display: flex;
+}
+.donate_picture{
+    display: flex;
+    margin-left: 90px;
+}
+.donate_img{
+    height: 200px;
+    width: 200px;
+    margin: 2px;
+}
+.donate_picture img{
+    height: 100%;
+    width: 100%;
+}
+.donation_situation{
+   width: 100%;
+}
 /* --part 4 end-- */
 /* --part 5 start-- */
 .Get_Update{
